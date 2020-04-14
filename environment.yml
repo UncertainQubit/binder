@@ -3,10 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - numpy
-  - datascience
-  - folium
-  - matplotlib
-  - nbinteract
-  - scipy
-  - jupyter-book
+  - sklearn
+  - __future__
+  - ipywidgets
