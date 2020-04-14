@@ -1,0 +1,12 @@
+name: ICAI
+channels:
+  - icai
+dependencies:
+  - pandas
+  - numpy
+  - datascience
+  - folium
+  - matplotlib
+  - nbinteract
+  - scipy
+  - jupyter-book
