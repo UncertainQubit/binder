@@ -1,6 +1,6 @@
 name: ICAI
 channels:
-  - icai
+  - conda-forge
 dependencies:
   - pandas
   - numpy
