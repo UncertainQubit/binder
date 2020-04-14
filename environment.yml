@@ -3,6 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - sklearn
-  - __future__
   - ipywidgets
+  - scikit-learn
+  - future
